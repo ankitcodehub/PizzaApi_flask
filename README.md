@@ -10,3 +10,9 @@ create API to list all the stored pizza
 create API to filter the pizza based on size, type
 create API to delete any of the listed pizza
 When Pizza is listed in the API it should also contain information about all the toppings it has.
+
+
+Technology used
+Programing Language:Python
+Framework:Flask Restplus
+Database:mongodb
